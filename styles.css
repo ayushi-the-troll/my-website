@@ -1,0 +1,56 @@
+/* IMPORTED FONTS */ 
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* STYLE SECTIONING TAGS */
+body {
+  background-color: #000000;
+}
+
+main {
+  padding-left: 30px;
+  padding-right: 90px;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #F3EFE0;
+  font-size: 40px;
+  font-family: "Funnel Sans";
+}
+p {
+  color: #F3EFE0;
+  font-family: "Funnel Sans";
+}
+.student {
+  color: #7FEFBD;
+  font-weight: 800;
+}
+
+.workex {
+  color: #CBA135;
+  font-weight: 800;
+}
+
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
+nav {
+  padding-left: 25px;
+  padding-top: 30px;
+}
+button {
+  font-family: "Funnel Sans";
+  font-size: 17px;
+  background-color: #F3EFE0;
+  border-radius: 3px;
+  border-width: 0px;
+  margin-right: 10px;
+}
+
+
+/* Color Scheme
+- #000000 "Black"
+- #F3EFE0 "Eggshell"
+- #7FEFBD "Aquamarine"
+- #CBA135 "Satin sheen gold"
+*/
