@@ -47,6 +47,12 @@ button {
   margin-right: 10px;
 }
 
+#christmas {
+  font-family: "Funnel Sans";
+  font-weight: 800;
+  color: #c64848;
+}
+  
 
 /* Color Scheme
 - #000000 "Black"
