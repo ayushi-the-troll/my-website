@@ -47,10 +47,9 @@ button {
   margin-right: 10px;
 }
 
-#christmas {
+.list {
+  color: #CBA135;
   font-family: "Funnel Sans";
-  font-weight: 800;
-  color: #c64848;
 }
   
 
